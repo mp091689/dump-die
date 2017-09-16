@@ -2,6 +2,13 @@ Dump Die
 =========
 Dump Die package based on symfony/var-dumper.
 
+Best dumping practises from Symfony and Laravel frameworks.
+
+The basic is idea of Laravel to combine two methods dump() and die() together.
+
+In this package we've used pretty dark dump() method from Symfony.___
+   
+
 Installation
 ------------
 
