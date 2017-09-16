@@ -1,0 +1,21 @@
+{
+    "name": "mp091689/dump-die",
+    "description": "Dump Die package based on symfony/var-dumper.",
+    "type": "extension",
+    "keywords": ["dd", "dump"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mykyta Popov",
+            "email": "mp091689@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "~3.3"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
