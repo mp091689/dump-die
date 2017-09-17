@@ -23,6 +23,10 @@ composer require mp091689/dump-die --dev
 Usage
 -----
 
-```
+`
 dd($variable);
-```
+`
+
+`
+dd($variable1, $variable2, ..);
+`
